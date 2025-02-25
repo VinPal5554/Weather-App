@@ -1,7 +1,10 @@
 import requests
+from dotenv import load_dotenv
+import os
 
-# Replace with actual API key
-API_KEY = ""
+load_dotenv()
+
+API_KEY = os.getenv("API_KEY")
 program_running = True
 
 while program_running:
