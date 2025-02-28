@@ -27,3 +27,5 @@ Run the app:
 ```
 python main.py
 ```
+
+![Weather App Screenshot](weather_app.png)
