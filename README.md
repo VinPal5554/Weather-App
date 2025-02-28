@@ -8,22 +8,24 @@ This is a simple weather app that fetches weather data using the OpenWeatherMap 
 - Error handling (Invalid city, timeout, invalid API, lost connection, etc)
 
 # Installation steps
-Clone the repository:
+**Clone the repository:**
 ```
 git clone https://github.com/VinPal5554/Weather-App
 cd Weather-App
 ```
-Install dependencies (Python 3+):
+**Install dependencies (Python 3+):**
 ```
 pip install requests
 ```
-Setup API key:
+**Setup API key:**
+
 You will need to use your own OpenWeatherMap API key. 
-A .env file will need to be created within the project in this format:
+
+An env file will need to be created within the project in this format:
 ```
 API_KEY=openweather_api_key
 ```
-Run the app:
+**Run the app:**
 ```
 python main.py
 ```
