@@ -28,4 +28,4 @@ Run the app:
 python main.py
 ```
 
-![Weather App Screenshot](weather_app.png)
+![Weather App Screenshot](Weather-App/weather_app.png)
