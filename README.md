@@ -3,8 +3,8 @@
 A simple weather forecasting application built using Vue.js for the frontend and Flask for the backend. This app fetches real-time weather data from the OpenWeatherMap API and displays it to the user.
 
 # Features
-- Real-time weather data: Fetches current weather details (temperature, description, humidity, wind speed) for any city
-- Responsive UI: Built with Vue.js and styled using Tailwind CSS
+- Real-time weather data: Fetches current weather details (temperature, description, humidity, wind speed, cloudiness) for any city
+- Responsive UI: Built with Vue.js and styled using CSS
 - Backend API: The backend is built with Flask and handles requests to the OpenWeatherMap API
 
 # Installation steps
